@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/RecipientReg">
+    <file>data.jpg</file>
+    <file>request.png</file>
+    <file>donate.png</file>
+    <file>UN.png</file>
+    <file>profile2.png</file>
+    <file>arrow.png</file>
+    <file>Rectanglered.png</file>
+    <file>profile.jpg</file>
+    <file>avatar_man.png</file>
+    <file>avatar_woman.png</file>
+    <file>shadow.png</file>
+    <file>shadow2.png</file>
+    <file>toppng.com-blood-donation-png-picture-blood-donation-logo-3209x3905.png</file>
+    <file>first.jpg</file>
+    <file>first1.jpg</file>
+    <file>bloodd.jpg</file>
+    <file>web_background.png</file>
+  </qresource>
+</RCC>

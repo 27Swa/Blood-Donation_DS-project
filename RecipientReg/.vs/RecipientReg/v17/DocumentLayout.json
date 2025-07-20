@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder (3)\\RecipientReg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder (3)\\RecipientReg\\RecipientReg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecipientReg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder (3)\\New folder\\RecipientReg\\RecipientReg\\RecipientReg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder (3)\\RecipientReg\\recipient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recipient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipientReg.cpp",
+              "DocumentMoniker": "E:\\New folder (3)\\New folder\\RecipientReg\\RecipientReg\\RecipientReg.cpp",
+              "RelativeDocumentMoniker": "..\\New folder\\RecipientReg\\RecipientReg\\RecipientReg.cpp",
+              "ToolTip": "E:\\New folder (3)\\New folder\\RecipientReg\\RecipientReg\\RecipientReg.cpp",
+              "RelativeToolTip": "..\\New folder\\RecipientReg\\RecipientReg\\RecipientReg.cpp",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T11:47:58.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipientReg.cpp",
+              "DocumentMoniker": "E:\\New folder (3)\\RecipientReg\\RecipientReg.cpp",
+              "RelativeDocumentMoniker": "RecipientReg.cpp",
+              "ToolTip": "E:\\New folder (3)\\RecipientReg\\RecipientReg.cpp",
+              "RelativeToolTip": "RecipientReg.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T11:31:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "recipient.cpp",
+              "DocumentMoniker": "E:\\New folder (3)\\RecipientReg\\recipient.cpp",
+              "RelativeDocumentMoniker": "recipient.cpp",
+              "ToolTip": "E:\\New folder (3)\\RecipientReg\\recipient.cpp",
+              "RelativeToolTip": "recipient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-19T01:52:18.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

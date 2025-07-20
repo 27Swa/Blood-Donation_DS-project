@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/new/prefix1">
+    	<file>toppng.com-blood-donation-png-picture-blood-donation-logo-3209x3905.png</file>
+    	<file>418247102644041.5f3b7316ad6dd.jpg</file>
+    	<file>132995_header_small.jpg</file>
+    	<file>web_background.png</file>
+    	<file>first.png</file>
+  </qresource>
+</RCC>
